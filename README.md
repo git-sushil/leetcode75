@@ -1,5 +1,7 @@
 # leetcode75
-leetcode questions
+Leetcode questions
+---
+
 Array
 
 - Two Sum - https://leetcode.com/problems/two-sum/
